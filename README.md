@@ -2,7 +2,7 @@
 
 <img src="script/main_icon.ico" width="96" height="96" alt="logo">
 
-# 🔫 PUBG 迫击炮标点测距工具
+# PUBG 迫击炮标点测距工具
 
 ### PUBG Mortar Range Finder & Ballistic Calculator
 
